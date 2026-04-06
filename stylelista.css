@@ -44,6 +44,10 @@ font-weight:bold;
 font-family:arial;
 }
 
+.linksdelaslistas:visited{
+color:gray;
+}
+
 .linksdelaslistas:hover{
 text-decoration:underline;
 }
