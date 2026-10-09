@@ -6,4 +6,9 @@ body{
 font-family:arial;
 background-color:black;
 color:white;
+-webkit-user-select: none; /* Safari / Chrome antiguo */
+-moz-user-select: none;    /* Firefox */
+-ms-user-select: none;     /* Internet Explorer / Edge antiguo */
+user-select: none;         /* Estándar actual */
+
 }
